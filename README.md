@@ -1,2 +1,2 @@
 # cloud-config
-demo spring cloud config
+wo k8s.gcr.io images
